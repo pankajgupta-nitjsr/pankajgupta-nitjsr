@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pankajgupta-nitjsr
 - 👀 I’m interested in building Native Android Apps.
-- 🌱 I’m currently learning JET Pack Compose.
 - 📫 How to reach me ...@nitiancodes
 
 <!---
